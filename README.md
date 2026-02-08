@@ -9,7 +9,7 @@ This repository contains the analysis code and scripts for the study "Cross-spec
 
 The code is organized into folders corresponding to the major analysis steps and figures in the manuscript:
 
-### [01_Methods_and_Cortical_Atlas_Construction](./01_Methods_and_Cortical_Atlas_Construction)
+### [01_Methods_and_Atlas_Construction](./01_Methods_and_Atlas_Construction)
 Scripts for cross-species data integration, quality control, assembly, and reference mapping.
 - **Cross_Species_Integration**: Functions and scripts for integrating human and macaque data.
 - **QC_and_Assembly**: Quality control pipelines and genome assembly annotations.
